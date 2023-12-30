@@ -53,7 +53,7 @@ nav {
     justify-content: space-evenly;
     align-items: center;
     background-color: #1F2937;
-padding: 100px;
+padding: 60px;
     
 }
 
@@ -148,3 +148,77 @@ padding: 100px;
     font-weight: bold;
 }
 
+/*next section vol2*/
+
+.comment {
+    background-color: #d0d9ec;
+    padding: 10px;
+    margin-top: 30px;
+  
+}
+
+
+.comment h1 {
+    color: #1F2937;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.comment p {
+    text-align: end;
+    margin-right: 80px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/*next section vol3*/
+.box1 {
+    display: flex;
+    justify-content: center;
+}
+.box {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 5px;
+    width: 1400px;
+    margin-top: 50px;
+}
+
+.box h1 {
+    color: white;
+    font-weight: bold;
+
+}
+
+.box h3 {
+    color: #ffffffcc;
+}
+
+.btn {
+    background-color: #3882F6;;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+.btn:hover {
+    background-color: white;
+    color: black;
+}
+
+footer {
+    margin-top: 50px;
+ background-color:  #1F2937;
+ text-align: center;
+padding: 10px;
+color: white;
+}
