@@ -177,6 +177,7 @@ padding: 60px;
     display: flex;
     justify-content: center;
 }
+
 .box {
     background-color: #3882F6;
     display: flex;
@@ -210,11 +211,13 @@ padding: 60px;
 
 }
 
+
 .btn:hover {
     background-color: white;
     color: black;
 }
 
+/*footer*/
 footer {
     margin-top: 50px;
  background-color:  #1F2937;
