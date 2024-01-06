@@ -1,2 +1,2 @@
-# Israel
- Pro-israel-Based-ShekelPstein
+# Israel site
+https://irakligo.github.io/Israel/
